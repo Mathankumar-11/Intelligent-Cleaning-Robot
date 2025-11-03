@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Intelligent Cleaning Robot",
+  "description": "A web application that simulates an intelligent cleaning robot using classical AI planning concepts. Users can configure an environment, generate a cleaning plan using A* search, and visualize the robot's execution of the plan step-by-step.",
+  "requestFramePermissions": []
+}
